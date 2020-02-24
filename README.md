@@ -1,5 +1,5 @@
 # Python Job Scraper
-![github-medium](image_01.png)
+![](image_01.jpg)
 
 ## Python Web Scraping project
 Written by Jiuk Choi
